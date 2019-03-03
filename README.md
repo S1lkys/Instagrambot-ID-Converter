@@ -14,6 +14,7 @@ let it work for you
 ## Usage of Instagrambot
 
 ```
+cd inshackle
 bash instabot.sh
 ```
 
