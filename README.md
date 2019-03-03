@@ -1,4 +1,4 @@
-# instagram-user-id
+# Instagram ID Converter
 Get the user ID of any user in instagram
 
 
